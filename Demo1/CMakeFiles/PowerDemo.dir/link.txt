@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/PowerDemo.dir/main.cc.o  -o PowerDemo 
